@@ -1,0 +1,1049 @@
+country_code,country,indicator_code,indicator,year,data_value,in_oecd
+AUS,Australia,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.7,oecd
+AUS,Australia,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,22.1,oecd
+AUS,Australia,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,6.5,oecd
+AUS,Australia,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,52.5,oecd
+AUS,Australia,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,86.5,oecd
+AUS,Australia,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,92.7,oecd
+AUS,Australia,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,76.2,oecd
+AUS,Australia,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,89.2,oecd
+AUS,Australia,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,67.5,oecd
+AUS,Australia,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,54.2,oecd
+AUS,Australia,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,71.9,oecd
+AUS,Australia,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,23.5,oecd
+AUS,Australia,CWB35A,Reading performance at age 15 (PISA),2015,502.9,oecd
+AUS,Australia,CWB35B,Mathematics performance at age 15 (PISA),2015,493.9,oecd
+AUS,Australia,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,69.2,oecd
+AUS,Australia,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,18.0,oecd
+AUS,Australia,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,2.0,oecd
+AUT,Austria,CWB1A,Children (0-17) living with two parents (%),2015,81.3,oecd
+AUT,Austria,CWB1B,Children (0-17) living with a single parent (%),2015,18.3,oecd
+AUT,Austria,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.4,oecd
+AUT,Austria,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,63.2,oecd
+AUT,Austria,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,7.5,oecd
+AUT,Austria,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,29822.5,oecd
+AUT,Austria,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,94.4,oecd
+AUT,Austria,CWB9,Children (0-17) in overcrowded households (%),2015,24.6,oecd
+AUT,Austria,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,37.9,oecd
+AUT,Austria,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,6.1,oecd
+AUT,Austria,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,42.7,oecd
+AUT,Austria,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,88.1,oecd
+AUT,Austria,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,90.3,oecd
+AUT,Austria,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,86.7,oecd
+AUT,Austria,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,77.9,oecd
+AUT,Austria,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,50.8,oecd
+AUT,Austria,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,27.1,oecd
+AUT,Austria,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,76.0,oecd
+AUT,Austria,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,13.9,oecd
+AUT,Austria,CWB35A,Reading performance at age 15 (PISA),2015,484.9,oecd
+AUT,Austria,CWB35B,Mathematics performance at age 15 (PISA),2015,496.7,oecd
+AUT,Austria,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,59.4,oecd
+AUT,Austria,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,39.7,oecd
+AUT,Austria,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,11.1,oecd
+AUT,Austria,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,60.0,oecd
+AUT,Austria,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,8.7,oecd
+BEL,Belgium,CWB1A,Children (0-17) living with two parents (%),2015,73.8,oecd
+BEL,Belgium,CWB1B,Children (0-17) living with a single parent (%),2015,25.0,oecd
+BEL,Belgium,CWB1C,Children (0-17) living in 'other' types of household (%),2015,1.2,oecd
+BEL,Belgium,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,62.6,oecd
+BEL,Belgium,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,13.2,oecd
+BEL,Belgium,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,30641.0,oecd
+BEL,Belgium,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,95.1,oecd
+BEL,Belgium,CWB9,Children (0-17) in overcrowded households (%),2015,3.7,oecd
+BEL,Belgium,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,22.3,oecd
+BEL,Belgium,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,7.2,oecd
+BEL,Belgium,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,45.1,oecd
+BEL,Belgium,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,98.6,oecd
+BEL,Belgium,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,91.2,oecd
+BEL,Belgium,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,84.7,oecd
+BEL,Belgium,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,72.1,oecd
+BEL,Belgium,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,42.5,oecd
+BEL,Belgium,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,32.9,oecd
+BEL,Belgium,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,62.0,oecd
+BEL,Belgium,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,12.9,oecd
+BEL,Belgium,CWB35A,Reading performance at age 15 (PISA),2015,498.5,oecd
+BEL,Belgium,CWB35B,Mathematics performance at age 15 (PISA),2015,507.0,oecd
+BEL,Belgium,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,59.5,oecd
+BEL,Belgium,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,32.8,oecd
+BEL,Belgium,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,8.3,oecd
+BEL,Belgium,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,32.3,oecd
+BEL,Belgium,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,19.3,oecd
+CAN,Canada,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,32427.6,oecd
+CAN,Canada,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.5,oecd
+CAN,Canada,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,24.9,oecd
+CAN,Canada,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,4.8,oecd
+CAN,Canada,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,58.7,oecd
+CAN,Canada,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,91.1,oecd
+CAN,Canada,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,80.3,oecd
+CAN,Canada,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,88.7,oecd
+CAN,Canada,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,63.9,oecd
+CAN,Canada,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,63.5,oecd
+CAN,Canada,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,71.6,oecd
+CAN,Canada,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,22.5,oecd
+CAN,Canada,CWB35A,Reading performance at age 15 (PISA),2015,526.7,oecd
+CAN,Canada,CWB35B,Mathematics performance at age 15 (PISA),2015,515.6,oecd
+CAN,Canada,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,52.0,oecd
+CAN,Canada,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,0.0,oecd
+CZE,Czech Republic,CWB1A,Children (0-17) living with two parents (%),2015,84.9,oecd
+CZE,Czech Republic,CWB1B,Children (0-17) living with a single parent (%),2015,14.6,oecd
+CZE,Czech Republic,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.6,oecd
+CZE,Czech Republic,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,55.1,oecd
+CZE,Czech Republic,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,9.2,oecd
+CZE,Czech Republic,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,18401.7,oecd
+CZE,Czech Republic,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.4,oecd
+CZE,Czech Republic,CWB9,Children (0-17) in overcrowded households (%),2015,29.4,oecd
+CZE,Czech Republic,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,31.3,oecd
+CZE,Czech Republic,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,3.3,oecd
+CZE,Czech Republic,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,56.5,oecd
+CZE,Czech Republic,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,84.6,oecd
+CZE,Czech Republic,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,87.9,oecd
+CZE,Czech Republic,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,68.6,oecd
+CZE,Czech Republic,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,81.1,oecd
+CZE,Czech Republic,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,40.3,oecd
+CZE,Czech Republic,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,55.6,oecd
+CZE,Czech Republic,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,70.9,oecd
+CZE,Czech Republic,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,20.2,oecd
+CZE,Czech Republic,CWB35A,Reading performance at age 15 (PISA),2015,487.3,oecd
+CZE,Czech Republic,CWB35B,Mathematics performance at age 15 (PISA),2015,492.3,oecd
+CZE,Czech Republic,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,60.8,oecd
+CZE,Czech Republic,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,30.6,oecd
+CZE,Czech Republic,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,13.8,oecd
+CZE,Czech Republic,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,110.0,oecd
+CZE,Czech Republic,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,0.0,oecd
+DNK,Denmark,CWB1A,Children (0-17) living with two parents (%),2015,72.7,oecd
+DNK,Denmark,CWB1B,Children (0-17) living with a single parent (%),2015,25.8,oecd
+DNK,Denmark,CWB1C,Children (0-17) living in 'other' types of household (%),2015,1.5,oecd
+DNK,Denmark,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,78.6,oecd
+DNK,Denmark,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,8.8,oecd
+DNK,Denmark,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,31990.2,oecd
+DNK,Denmark,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,95.8,oecd
+DNK,Denmark,CWB9,Children (0-17) in overcrowded households (%),2015,11.0,oecd
+DNK,Denmark,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,17.2,oecd
+DNK,Denmark,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,4.0,oecd
+DNK,Denmark,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,62.7,oecd
+DNK,Denmark,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,98.0,oecd
+DNK,Denmark,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,93.4,oecd
+DNK,Denmark,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,81.1,oecd
+DNK,Denmark,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,76.9,oecd
+DNK,Denmark,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,64.5,oecd
+DNK,Denmark,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,37.2,oecd
+DNK,Denmark,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,70.3,oecd
+DNK,Denmark,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,12.4,oecd
+DNK,Denmark,CWB35A,Reading performance at age 15 (PISA),2015,499.8,oecd
+DNK,Denmark,CWB35B,Mathematics performance at age 15 (PISA),2015,511.1,oecd
+DNK,Denmark,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,69.2,oecd
+DNK,Denmark,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,50.0,oecd
+DNK,Denmark,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,2.0,oecd
+FIN,Finland,CWB1A,Children (0-17) living with two parents (%),2015,86.7,oecd
+FIN,Finland,CWB1B,Children (0-17) living with a single parent (%),2015,13.1,oecd
+FIN,Finland,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.3,oecd
+FIN,Finland,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,60.4,oecd
+FIN,Finland,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,5.6,oecd
+FIN,Finland,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,28820.9,oecd
+FIN,Finland,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.6,oecd
+FIN,Finland,CWB9,Children (0-17) in overcrowded households (%),2015,7.4,oecd
+FIN,Finland,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,19.3,oecd
+FIN,Finland,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,3.8,oecd
+FIN,Finland,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,54.4,oecd
+FIN,Finland,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,73.9,oecd
+FIN,Finland,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,92.7,oecd
+FIN,Finland,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,71.5,oecd
+FIN,Finland,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,60.6,oecd
+FIN,Finland,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,48.6,oecd
+FIN,Finland,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,27.1,oecd
+FIN,Finland,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,80.3,oecd
+FIN,Finland,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,12.3,oecd
+FIN,Finland,CWB35A,Reading performance at age 15 (PISA),2015,526.4,oecd
+FIN,Finland,CWB35B,Mathematics performance at age 15 (PISA),2015,511.1,oecd
+FIN,Finland,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,59.8,oecd
+FIN,Finland,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,44.4,oecd
+FIN,Finland,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,6.6,oecd
+FIN,Finland,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,161.0,oecd
+FIN,Finland,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,9.0,oecd
+FRA,France,CWB1A,Children (0-17) living with two parents (%),2015,77.1,oecd
+FRA,France,CWB1B,Children (0-17) living with a single parent (%),2015,22.3,oecd
+FRA,France,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.5,oecd
+FRA,France,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,60.4,oecd
+FRA,France,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,12.2,oecd
+FRA,France,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,26412.6,oecd
+FRA,France,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,93.9,oecd
+FRA,France,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,73.1,oecd
+FRA,France,CWB9,Children (0-17) in overcrowded households (%),2015,11.5,oecd
+FRA,France,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,23.5,oecd
+FRA,France,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,8.8,oecd
+FRA,France,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,37.0,oecd
+FRA,France,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,100.0,oecd
+FRA,France,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,93.1,oecd
+FRA,France,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,79.1,oecd
+FRA,France,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,85.2,oecd
+FRA,France,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,47.2,oecd
+FRA,France,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,32.0,oecd
+FRA,France,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,40.9,oecd
+FRA,France,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,23.2,oecd
+FRA,France,CWB35A,Reading performance at age 15 (PISA),2015,499.3,oecd
+FRA,France,CWB35B,Mathematics performance at age 15 (PISA),2015,492.9,oecd
+FRA,France,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,52.8,oecd
+FRA,France,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,36.6,oecd
+FRA,France,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,7.4,oecd
+FRA,France,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,42.0,oecd
+FRA,France,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,28.0,oecd
+DEU,Germany,CWB1A,Children (0-17) living with two parents (%),2015,82.8,oecd
+DEU,Germany,CWB1B,Children (0-17) living with a single parent (%),2015,16.0,oecd
+DEU,Germany,CWB1C,Children (0-17) living in 'other' types of household (%),2015,1.3,oecd
+DEU,Germany,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,63.4,oecd
+DEU,Germany,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,9.4,oecd
+DEU,Germany,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,27467.5,oecd
+DEU,Germany,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.4,oecd
+DEU,Germany,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,93.1,oecd
+DEU,Germany,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,30.0,oecd
+DEU,Germany,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,3.1,oecd
+DEU,Germany,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,54.5,oecd
+DEU,Germany,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,96.0,oecd
+DEU,Germany,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,90.6,oecd
+DEU,Germany,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,79.6,oecd
+DEU,Germany,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,76.5,oecd
+DEU,Germany,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,41.6,oecd
+DEU,Germany,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,17.8,oecd
+DEU,Germany,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,74.9,oecd
+DEU,Germany,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,14.5,oecd
+DEU,Germany,CWB35A,Reading performance at age 15 (PISA),2015,509.1,oecd
+DEU,Germany,CWB35B,Mathematics performance at age 15 (PISA),2015,506.0,oecd
+DEU,Germany,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,34.0,oecd
+DEU,Germany,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,11.1,oecd
+DEU,Germany,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,58.0,oecd
+DEU,Germany,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,8.7,oecd
+GRC,Greece,CWB1A,Children (0-17) living with two parents (%),2015,91.6,oecd
+GRC,Greece,CWB1B,Children (0-17) living with a single parent (%),2015,8.1,oecd
+GRC,Greece,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.3,oecd
+GRC,Greece,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,43.9,oecd
+GRC,Greece,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,11.0,oecd
+GRC,Greece,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,13165.5,oecd
+GRC,Greece,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.2,oecd
+GRC,Greece,CWB9,Children (0-17) in overcrowded households (%),2015,34.1,oecd
+GRC,Greece,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,24.4,oecd
+GRC,Greece,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,7.9,oecd
+GRC,Greece,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,50.8,oecd
+GRC,Greece,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,63.0,oecd
+GRC,Greece,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,90.0,oecd
+GRC,Greece,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,83.7,oecd
+GRC,Greece,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,72.9,oecd
+GRC,Greece,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,59.0,oecd
+GRC,Greece,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,66.3,oecd
+GRC,Greece,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,83.0,oecd
+GRC,Greece,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,15.6,oecd
+GRC,Greece,CWB35A,Reading performance at age 15 (PISA),2015,467.0,oecd
+GRC,Greece,CWB35B,Mathematics performance at age 15 (PISA),2015,453.6,oecd
+GRC,Greece,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,52.6,oecd
+GRC,Greece,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,26.2,oecd
+GRC,Greece,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,14.7,oecd
+GRC,Greece,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,43.0,oecd
+GRC,Greece,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,0.4,oecd
+HUN,Hungary,CWB1A,Children (0-17) living with two parents (%),2015,76.3,oecd
+HUN,Hungary,CWB1B,Children (0-17) living with a single parent (%),2015,22.5,oecd
+HUN,Hungary,CWB1C,Children (0-17) living in 'other' types of household (%),2015,1.1,oecd
+HUN,Hungary,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,46.1,oecd
+HUN,Hungary,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,9.3,oecd
+HUN,Hungary,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,11706.1,oecd
+HUN,Hungary,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.0,oecd
+HUN,Hungary,CWB9,Children (0-17) in overcrowded households (%),2015,62.6,oecd
+HUN,Hungary,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,34.1,oecd
+HUN,Hungary,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,4.7,oecd
+HUN,Hungary,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,58.2,oecd
+HUN,Hungary,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,90.8,oecd
+HUN,Hungary,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,92.4,oecd
+HUN,Hungary,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,83.7,oecd
+HUN,Hungary,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,76.3,oecd
+HUN,Hungary,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,54.5,oecd
+HUN,Hungary,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,35.5,oecd
+HUN,Hungary,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,74.5,oecd
+HUN,Hungary,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,17.9,oecd
+HUN,Hungary,CWB35A,Reading performance at age 15 (PISA),2015,469.5,oecd
+HUN,Hungary,CWB35B,Mathematics performance at age 15 (PISA),2015,476.8,oecd
+HUN,Hungary,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,63.4,oecd
+HUN,Hungary,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,31.7,oecd
+HUN,Hungary,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,13.1,oecd
+HUN,Hungary,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,160.0,oecd
+HUN,Hungary,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,1.0,oecd
+ISL,Iceland,CWB1A,Children (0-17) living with two parents (%),2015,80.5,oecd
+ISL,Iceland,CWB1B,Children (0-17) living with a single parent (%),2015,18.6,oecd
+ISL,Iceland,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.9,oecd
+ISL,Iceland,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,30468.5,oecd
+ISL,Iceland,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,98.5,oecd
+ISL,Iceland,CWB9,Children (0-17) in overcrowded households (%),2015,11.7,oecd
+ISL,Iceland,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,21.4,oecd
+ISL,Iceland,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,5.0,oecd
+ISL,Iceland,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,70.2,oecd
+ISL,Iceland,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,97.2,oecd
+ISL,Iceland,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,92.4,oecd
+ISL,Iceland,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,70.4,oecd
+ISL,Iceland,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,96.2,oecd
+ISL,Iceland,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,51.1,oecd
+ISL,Iceland,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,38.9,oecd
+ISL,Iceland,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,78.5,oecd
+ISL,Iceland,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,17.1,oecd
+ISL,Iceland,CWB35A,Reading performance at age 15 (PISA),2015,481.5,oecd
+ISL,Iceland,CWB35B,Mathematics performance at age 15 (PISA),2015,488.0,oecd
+ISL,Iceland,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,62.8,oecd
+ISL,Iceland,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,46.7,oecd
+ISL,Iceland,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,9.5,oecd
+ISL,Iceland,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,26.0,oecd
+ISL,Iceland,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,13.0,oecd
+IRL,Ireland,CWB1A,Children (0-17) living with two parents (%),2015,82.1,oecd
+IRL,Ireland,CWB1B,Children (0-17) living with a single parent (%),2015,17.8,oecd
+IRL,Ireland,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.1,oecd
+IRL,Ireland,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,52.7,oecd
+IRL,Ireland,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,14.4,oecd
+IRL,Ireland,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,26683.8,oecd
+IRL,Ireland,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,97.8,oecd
+IRL,Ireland,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,80.9,oecd
+IRL,Ireland,CWB9,Children (0-17) in overcrowded households (%),2015,4.6,oecd
+IRL,Ireland,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,17.5,oecd
+IRL,Ireland,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,5.0,oecd
+IRL,Ireland,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,56.9,oecd
+IRL,Ireland,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,78.7,oecd
+IRL,Ireland,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,94.9,oecd
+IRL,Ireland,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,79.9,oecd
+IRL,Ireland,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,92.7,oecd
+IRL,Ireland,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,63.2,oecd
+IRL,Ireland,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,46.3,oecd
+IRL,Ireland,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,73.3,oecd
+IRL,Ireland,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,16.7,oecd
+IRL,Ireland,CWB35A,Reading performance at age 15 (PISA),2015,520.8,oecd
+IRL,Ireland,CWB35B,Mathematics performance at age 15 (PISA),2015,503.7,oecd
+IRL,Ireland,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,61.1,oecd
+IRL,Ireland,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,32.4,oecd
+IRL,Ireland,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,11.9,oecd
+IRL,Ireland,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,26.0,oecd
+IRL,Ireland,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,0.0,oecd
+ITA,Italy,CWB1A,Children (0-17) living with two parents (%),2015,87.4,oecd
+ITA,Italy,CWB1B,Children (0-17) living with a single parent (%),2015,12.4,oecd
+ITA,Italy,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.2,oecd
+ITA,Italy,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,47.0,oecd
+ITA,Italy,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,10.5,oecd
+ITA,Italy,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,21541.3,oecd
+ITA,Italy,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.9,oecd
+ITA,Italy,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,77.1,oecd
+ITA,Italy,CWB9,Children (0-17) in overcrowded households (%),2015,40.8,oecd
+ITA,Italy,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,38.0,oecd
+ITA,Italy,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,94.9,oecd
+ITA,Italy,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,89.9,oecd
+ITA,Italy,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,87.1,oecd
+ITA,Italy,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,88.0,oecd
+ITA,Italy,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,70.2,oecd
+ITA,Italy,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,38.3,oecd
+ITA,Italy,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,67.3,oecd
+ITA,Italy,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,11.1,oecd
+ITA,Italy,CWB35A,Reading performance at age 15 (PISA),2015,484.8,oecd
+ITA,Italy,CWB35B,Mathematics performance at age 15 (PISA),2015,489.7,oecd
+ITA,Italy,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,63.2,oecd
+ITA,Italy,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,24.2,oecd
+ITA,Italy,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,14.7,oecd
+ITA,Italy,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,47.7,oecd
+ITA,Italy,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,0.2,oecd
+JPN,Japan,CWB1A,Children (0-17) living with two parents (%),2015,87.6,oecd
+JPN,Japan,CWB1B,Children (0-17) living with a single parent (%),2015,12.2,oecd
+JPN,Japan,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.6,oecd
+JPN,Japan,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,24725.0,oecd
+JPN,Japan,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,95.5,oecd
+JPN,Japan,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,8.5,oecd
+JPN,Japan,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,18.0,oecd
+JPN,Japan,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,46.8,oecd
+JPN,Japan,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,91.0,oecd
+JPN,Japan,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,82.0,oecd
+JPN,Japan,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,82.3,oecd
+JPN,Japan,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,64.8,oecd
+JPN,Japan,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,62.1,oecd
+JPN,Japan,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,58.7,oecd
+JPN,Japan,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,81.9,oecd
+JPN,Japan,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,11.9,oecd
+JPN,Japan,CWB35A,Reading performance at age 15 (PISA),2015,516.0,oecd
+JPN,Japan,CWB35B,Mathematics performance at age 15 (PISA),2015,532.4,oecd
+JPN,Japan,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,37.0,oecd
+JPN,Japan,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,23.8,oecd
+JPN,Japan,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,16.1,oecd
+JPN,Japan,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,58.0,oecd
+JPN,Japan,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,52.0,oecd
+KOR,Korea,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,28551.4,oecd
+KOR,Korea,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,90.3,oecd
+KOR,Korea,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,53.7,oecd
+KOR,Korea,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,26.1,oecd
+KOR,Korea,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,13.8,oecd
+KOR,Korea,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,36.0,oecd
+KOR,Korea,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,91.9,oecd
+KOR,Korea,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,94.4,oecd
+KOR,Korea,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,82.2,oecd
+KOR,Korea,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,86.7,oecd
+KOR,Korea,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,55.3,oecd
+KOR,Korea,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,75.3,oecd
+KOR,Korea,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,79.5,oecd
+KOR,Korea,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,8.7,oecd
+KOR,Korea,CWB35A,Reading performance at age 15 (PISA),2015,517.4,oecd
+KOR,Korea,CWB35B,Mathematics performance at age 15 (PISA),2015,524.1,oecd
+KOR,Korea,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,21.7,oecd
+KOR,Korea,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,18.6,oecd
+KOR,Korea,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,21.6,oecd
+KOR,Korea,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,64.9,oecd
+KOR,Korea,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,52.6,oecd
+LUX,Luxembourg,CWB1A,Children (0-17) living with two parents (%),2015,83.5,oecd
+LUX,Luxembourg,CWB1B,Children (0-17) living with a single parent (%),2015,16.4,oecd
+LUX,Luxembourg,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.1,oecd
+LUX,Luxembourg,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,54.9,oecd
+LUX,Luxembourg,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,2.8,oecd
+LUX,Luxembourg,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,41106.8,oecd
+LUX,Luxembourg,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,94.1,oecd
+LUX,Luxembourg,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,80.8,oecd
+LUX,Luxembourg,CWB9,Children (0-17) in overcrowded households (%),2015,9.1,oecd
+LUX,Luxembourg,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,27.4,oecd
+LUX,Luxembourg,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,7.1,oecd
+LUX,Luxembourg,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,51.1,oecd
+LUX,Luxembourg,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,86.3,oecd
+LUX,Luxembourg,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,91.0,oecd
+LUX,Luxembourg,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,87.2,oecd
+LUX,Luxembourg,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,82.6,oecd
+LUX,Luxembourg,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,47.9,oecd
+LUX,Luxembourg,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,41.4,oecd
+LUX,Luxembourg,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,66.0,oecd
+LUX,Luxembourg,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,16.8,oecd
+LUX,Luxembourg,CWB35A,Reading performance at age 15 (PISA),2015,481.4,oecd
+LUX,Luxembourg,CWB35B,Mathematics performance at age 15 (PISA),2015,485.8,oecd
+LUX,Luxembourg,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,62.3,oecd
+LUX,Luxembourg,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,36.1,oecd
+LUX,Luxembourg,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,11.1,oecd
+LUX,Luxembourg,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,42.0,oecd
+LUX,Luxembourg,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,26.4,oecd
+MEX,Mexico,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,89.9,oecd
+MEX,Mexico,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,43.4,oecd
+MEX,Mexico,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,25.5,oecd
+MEX,Mexico,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,6.2,oecd
+MEX,Mexico,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,47.8,oecd
+MEX,Mexico,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,82.3,oecd
+MEX,Mexico,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,88.7,oecd
+MEX,Mexico,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,89.7,oecd
+MEX,Mexico,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,96.4,oecd
+MEX,Mexico,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,60.1,oecd
+MEX,Mexico,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,58.4,oecd
+MEX,Mexico,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,76.1,oecd
+MEX,Mexico,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,24.8,oecd
+MEX,Mexico,CWB35A,Reading performance at age 15 (PISA),2015,423.3,oecd
+MEX,Mexico,CWB35B,Mathematics performance at age 15 (PISA),2015,408.0,oecd
+MEX,Mexico,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,45.1,oecd
+MEX,Mexico,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,58.5,oecd
+MEX,Mexico,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,6.4,oecd
+MEX,Mexico,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,12.0,oecd
+MEX,Mexico,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,1.0,oecd
+NLD,Netherlands,CWB1A,Children (0-17) living with two parents (%),2015,86.4,oecd
+NLD,Netherlands,CWB1B,Children (0-17) living with a single parent (%),2015,12.7,oecd
+NLD,Netherlands,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.8,oecd
+NLD,Netherlands,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,71.3,oecd
+NLD,Netherlands,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,7.7,oecd
+NLD,Netherlands,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,31291.3,oecd
+NLD,Netherlands,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,97.8,oecd
+NLD,Netherlands,CWB9,Children (0-17) in overcrowded households (%),2015,3.8,oecd
+NLD,Netherlands,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,11.5,oecd
+NLD,Netherlands,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,3.1,oecd
+NLD,Netherlands,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,53.3,oecd
+NLD,Netherlands,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,92.8,oecd
+NLD,Netherlands,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,95.0,oecd
+NLD,Netherlands,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,86.4,oecd
+NLD,Netherlands,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,92.0,oecd
+NLD,Netherlands,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,39.0,oecd
+NLD,Netherlands,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,17.4,oecd
+NLD,Netherlands,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,80.9,oecd
+NLD,Netherlands,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,9.0,oecd
+NLD,Netherlands,CWB35A,Reading performance at age 15 (PISA),2015,503.0,oecd
+NLD,Netherlands,CWB35B,Mathematics performance at age 15 (PISA),2015,512.3,oecd
+NLD,Netherlands,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,65.7,oecd
+NLD,Netherlands,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,32.5,oecd
+NLD,Netherlands,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,3.7,oecd
+NLD,Netherlands,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,16.0,oecd
+NLD,Netherlands,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,0.4,oecd
+NZL,New Zealand,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.2,oecd
+NZL,New Zealand,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,20.5,oecd
+NZL,New Zealand,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,6.7,oecd
+NZL,New Zealand,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,52.3,oecd
+NZL,New Zealand,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,93.8,oecd
+NZL,New Zealand,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,91.4,oecd
+NZL,New Zealand,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,76.9,oecd
+NZL,New Zealand,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,88.8,oecd
+NZL,New Zealand,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,72.0,oecd
+NZL,New Zealand,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,45.2,oecd
+NZL,New Zealand,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,73.7,oecd
+NZL,New Zealand,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,22.3,oecd
+NZL,New Zealand,CWB35A,Reading performance at age 15 (PISA),2015,509.3,oecd
+NZL,New Zealand,CWB35B,Mathematics performance at age 15 (PISA),2015,495.2,oecd
+NZL,New Zealand,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,68.6,oecd
+NZL,New Zealand,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,16.0,oecd
+NZL,New Zealand,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,0.0,oecd
+NOR,Norway,CWB1A,Children (0-17) living with two parents (%),2015,78.4,oecd
+NOR,Norway,CWB1B,Children (0-17) living with a single parent (%),2015,19.8,oecd
+NOR,Norway,CWB1C,Children (0-17) living in 'other' types of household (%),2015,1.8,oecd
+NOR,Norway,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,37820.5,oecd
+NOR,Norway,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,97.6,oecd
+NOR,Norway,CWB9,Children (0-17) in overcrowded households (%),2015,4.9,oecd
+NOR,Norway,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,19.2,oecd
+NOR,Norway,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,4.1,oecd
+NOR,Norway,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,62.3,oecd
+NOR,Norway,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,96.7,oecd
+NOR,Norway,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,91.4,oecd
+NOR,Norway,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,76.3,oecd
+NOR,Norway,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,83.4,oecd
+NOR,Norway,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,60.9,oecd
+NOR,Norway,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,24.1,oecd
+NOR,Norway,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,75.7,oecd
+NOR,Norway,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,12.1,oecd
+NOR,Norway,CWB35A,Reading performance at age 15 (PISA),2015,513.2,oecd
+NOR,Norway,CWB35B,Mathematics performance at age 15 (PISA),2015,501.7,oecd
+NOR,Norway,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,91.0,oecd
+NOR,Norway,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,10.0,oecd
+POL,Poland,CWB1A,Children (0-17) living with two parents (%),2015,89.4,oecd
+POL,Poland,CWB1B,Children (0-17) living with a single parent (%),2015,9.8,oecd
+POL,Poland,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.8,oecd
+POL,Poland,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,45.4,oecd
+POL,Poland,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,8.8,oecd
+POL,Poland,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,16546.2,oecd
+POL,Poland,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,94.5,oecd
+POL,Poland,CWB9,Children (0-17) in overcrowded households (%),2015,55.5,oecd
+POL,Poland,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,23.5,oecd
+POL,Poland,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,3.5,oecd
+POL,Poland,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,63.8,oecd
+POL,Poland,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,80.4,oecd
+POL,Poland,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,87.2,oecd
+POL,Poland,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,87.7,oecd
+POL,Poland,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,64.9,oecd
+POL,Poland,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,45.1,oecd
+POL,Poland,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,48.0,oecd
+POL,Poland,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,62.4,oecd
+POL,Poland,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,21.5,oecd
+POL,Poland,CWB35A,Reading performance at age 15 (PISA),2015,505.7,oecd
+POL,Poland,CWB35B,Mathematics performance at age 15 (PISA),2015,504.5,oecd
+POL,Poland,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,61.0,oecd
+POL,Poland,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,32.4,oecd
+POL,Poland,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,12.6,oecd
+POL,Poland,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,52.0,oecd
+POL,Poland,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,2.0,oecd
+PRT,Portugal,CWB1A,Children (0-17) living with two parents (%),2015,76.7,oecd
+PRT,Portugal,CWB1B,Children (0-17) living with a single parent (%),2015,21.3,oecd
+PRT,Portugal,CWB1C,Children (0-17) living in 'other' types of household (%),2015,2.1,oecd
+PRT,Portugal,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,66.1,oecd
+PRT,Portugal,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,6.3,oecd
+PRT,Portugal,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,16128.4,oecd
+PRT,Portugal,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,97.5,oecd
+PRT,Portugal,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,90.2,oecd
+PRT,Portugal,CWB9,Children (0-17) in overcrowded households (%),2015,16.3,oecd
+PRT,Portugal,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,10.4,oecd
+PRT,Portugal,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,9.5,oecd
+PRT,Portugal,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,44.8,oecd
+PRT,Portugal,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,88.7,oecd
+PRT,Portugal,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,95.4,oecd
+PRT,Portugal,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,77.0,oecd
+PRT,Portugal,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,95.7,oecd
+PRT,Portugal,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,69.0,oecd
+PRT,Portugal,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,39.9,oecd
+PRT,Portugal,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,82.3,oecd
+PRT,Portugal,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,12.9,oecd
+PRT,Portugal,CWB35A,Reading performance at age 15 (PISA),2015,498.1,oecd
+PRT,Portugal,CWB35B,Mathematics performance at age 15 (PISA),2015,491.6,oecd
+PRT,Portugal,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,56.6,oecd
+PRT,Portugal,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,31.0,oecd
+PRT,Portugal,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,8.9,oecd
+PRT,Portugal,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,30.1,oecd
+PRT,Portugal,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,21.3,oecd
+SVK,Slovak Republic,CWB1A,Children (0-17) living with two parents (%),2015,87.2,oecd
+SVK,Slovak Republic,CWB1B,Children (0-17) living with a single parent (%),2015,12.4,oecd
+SVK,Slovak Republic,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.4,oecd
+SVK,Slovak Republic,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,39.1,oecd
+SVK,Slovak Republic,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,9.3,oecd
+SVK,Slovak Republic,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,13702.7,oecd
+SVK,Slovak Republic,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,93.5,oecd
+SVK,Slovak Republic,CWB9,Children (0-17) in overcrowded households (%),2015,52.1,oecd
+SVK,Slovak Republic,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,35.1,oecd
+SVK,Slovak Republic,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,4.2,oecd
+SVK,Slovak Republic,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,55.6,oecd
+SVK,Slovak Republic,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,72.2,oecd
+SVK,Slovak Republic,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,88.8,oecd
+SVK,Slovak Republic,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,78.5,oecd
+SVK,Slovak Republic,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,73.5,oecd
+SVK,Slovak Republic,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,47.1,oecd
+SVK,Slovak Republic,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,69.7,oecd
+SVK,Slovak Republic,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,22.7,oecd
+SVK,Slovak Republic,CWB35A,Reading performance at age 15 (PISA),2015,452.5,oecd
+SVK,Slovak Republic,CWB35B,Mathematics performance at age 15 (PISA),2015,475.2,oecd
+SVK,Slovak Republic,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,60.5,oecd
+SVK,Slovak Republic,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,39.4,oecd
+SVK,Slovak Republic,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,11.3,oecd
+SVK,Slovak Republic,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,164.0,oecd
+SVK,Slovak Republic,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,0.0,oecd
+ESP,Spain,CWB1A,Children (0-17) living with two parents (%),2015,82.4,oecd
+ESP,Spain,CWB1B,Children (0-17) living with a single parent (%),2015,16.3,oecd
+ESP,Spain,CWB1C,Children (0-17) living in 'other' types of household (%),2015,1.3,oecd
+ESP,Spain,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,51.5,oecd
+ESP,Spain,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,10.6,oecd
+ESP,Spain,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,21853.8,oecd
+ESP,Spain,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,94.8,oecd
+ESP,Spain,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,79.1,oecd
+ESP,Spain,CWB9,Children (0-17) in overcrowded households (%),2015,7.6,oecd
+ESP,Spain,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,16.9,oecd
+ESP,Spain,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,9.5,oecd
+ESP,Spain,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,45.7,oecd
+ESP,Spain,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,96.8,oecd
+ESP,Spain,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,90.0,oecd
+ESP,Spain,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,87.8,oecd
+ESP,Spain,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,77.1,oecd
+ESP,Spain,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,67.1,oecd
+ESP,Spain,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,51.0,oecd
+ESP,Spain,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,87.2,oecd
+ESP,Spain,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,10.1,oecd
+ESP,Spain,CWB35A,Reading performance at age 15 (PISA),2015,495.6,oecd
+ESP,Spain,CWB35B,Mathematics performance at age 15 (PISA),2015,485.8,oecd
+ESP,Spain,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,65.8,oecd
+ESP,Spain,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,33.0,oecd
+ESP,Spain,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,9.5,oecd
+ESP,Spain,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,16.0,oecd
+ESP,Spain,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,2.1,oecd
+SWE,Sweden,CWB1A,Children (0-17) living with two parents (%),2015,79.5,oecd
+SWE,Sweden,CWB1B,Children (0-17) living with a single parent (%),2015,19.4,oecd
+SWE,Sweden,CWB1C,Children (0-17) living in 'other' types of household (%),2015,1.0,oecd
+SWE,Sweden,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,81.2,oecd
+SWE,Sweden,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,6.8,oecd
+SWE,Sweden,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,31354.0,oecd
+SWE,Sweden,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,97.2,oecd
+SWE,Sweden,CWB9,Children (0-17) in overcrowded households (%),2015,13.5,oecd
+SWE,Sweden,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,18.0,oecd
+SWE,Sweden,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,5.3,oecd
+SWE,Sweden,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,60.2,oecd
+SWE,Sweden,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,92.7,oecd
+SWE,Sweden,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,90.5,oecd
+SWE,Sweden,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,70.5,oecd
+SWE,Sweden,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,80.0,oecd
+SWE,Sweden,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,61.1,oecd
+SWE,Sweden,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,38.7,oecd
+SWE,Sweden,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,69.3,oecd
+SWE,Sweden,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,20.6,oecd
+SWE,Sweden,CWB35A,Reading performance at age 15 (PISA),2015,500.2,oecd
+SWE,Sweden,CWB35B,Mathematics performance at age 15 (PISA),2015,493.9,oecd
+SWE,Sweden,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,77.7,oecd
+SWE,Sweden,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,60.0,oecd
+SWE,Sweden,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,10.0,oecd
+CHE,Switzerland,CWB1A,Children (0-17) living with two parents (%),2015,87.7,oecd
+CHE,Switzerland,CWB1B,Children (0-17) living with a single parent (%),2015,12.1,oecd
+CHE,Switzerland,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.3,oecd
+CHE,Switzerland,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,38561.1,oecd
+CHE,Switzerland,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,95.9,oecd
+CHE,Switzerland,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,28.0,oecd
+CHE,Switzerland,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,3.6,oecd
+CHE,Switzerland,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,54.2,oecd
+CHE,Switzerland,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,49.1,oecd
+CHE,Switzerland,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,93.6,oecd
+CHE,Switzerland,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,80.5,oecd
+CHE,Switzerland,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,77.3,oecd
+CHE,Switzerland,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,33.5,oecd
+CHE,Switzerland,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,27.0,oecd
+CHE,Switzerland,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,70.8,oecd
+CHE,Switzerland,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,11.7,oecd
+CHE,Switzerland,CWB35A,Reading performance at age 15 (PISA),2015,492.2,oecd
+CHE,Switzerland,CWB35B,Mathematics performance at age 15 (PISA),2015,521.3,oecd
+CHE,Switzerland,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,51.5,oecd
+CHE,Switzerland,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,39.6,oecd
+CHE,Switzerland,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,7.4,oecd
+CHE,Switzerland,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,14.0,oecd
+CHE,Switzerland,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,0.0,oecd
+TUR,Turkey,CWB1A,Children (0-17) living with two parents (%),2015,93.4,oecd
+TUR,Turkey,CWB1B,Children (0-17) living with a single parent (%),2015,5.7,oecd
+TUR,Turkey,CWB1C,Children (0-17) living in 'other' types of household (%),2015,1.0,oecd
+TUR,Turkey,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,11955.6,oecd
+TUR,Turkey,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,88.5,oecd
+TUR,Turkey,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,22.4,oecd
+TUR,Turkey,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,11.5,oecd
+TUR,Turkey,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,38.2,oecd
+TUR,Turkey,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,38.0,oecd
+TUR,Turkey,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,75.2,oecd
+TUR,Turkey,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,90.3,oecd
+TUR,Turkey,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,93.5,oecd
+TUR,Turkey,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,58.8,oecd
+TUR,Turkey,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,70.6,oecd
+TUR,Turkey,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,61.4,oecd
+TUR,Turkey,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,35.7,oecd
+TUR,Turkey,CWB35A,Reading performance at age 15 (PISA),2015,428.3,oecd
+TUR,Turkey,CWB35B,Mathematics performance at age 15 (PISA),2015,420.5,oecd
+TUR,Turkey,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,26.2,oecd
+TUR,Turkey,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,28.6,oecd
+TUR,Turkey,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,16.0,oecd
+TUR,Turkey,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,0.0,oecd
+GBR,United Kingdom,CWB1A,Children (0-17) living with two parents (%),2015,75.3,oecd
+GBR,United Kingdom,CWB1B,Children (0-17) living with a single parent (%),2015,24.5,oecd
+GBR,United Kingdom,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.2,oecd
+GBR,United Kingdom,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,59.5,oecd
+GBR,United Kingdom,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,14.6,oecd
+GBR,United Kingdom,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,24494.9,oecd
+GBR,United Kingdom,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.5,oecd
+GBR,United Kingdom,CWB9,Children (0-17) in overcrowded households (%),2015,10.6,oecd
+GBR,United Kingdom,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,29.6,oecd
+GBR,United Kingdom,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,7.4,oecd
+GBR,United Kingdom,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,41.7,oecd
+GBR,United Kingdom,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,100.0,oecd
+GBR,United Kingdom,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,92.4,oecd
+GBR,United Kingdom,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,86.4,oecd
+GBR,United Kingdom,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,95.4,oecd
+GBR,United Kingdom,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,71.9,oecd
+GBR,United Kingdom,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,41.8,oecd
+GBR,United Kingdom,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,67.8,oecd
+GBR,United Kingdom,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,20.1,oecd
+GBR,United Kingdom,CWB35A,Reading performance at age 15 (PISA),2015,498.0,oecd
+GBR,United Kingdom,CWB35B,Mathematics performance at age 15 (PISA),2015,492.5,oecd
+GBR,United Kingdom,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,75.7,oecd
+GBR,United Kingdom,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,28.3,oecd
+GBR,United Kingdom,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,15.6,oecd
+GBR,United Kingdom,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,39.0,oecd
+GBR,United Kingdom,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,2.0,oecd
+USA,United States,CWB1A,Children (0-17) living with two parents (%),2015,69.2,oecd
+USA,United States,CWB1B,Children (0-17) living with a single parent (%),2015,26.8,oecd
+USA,United States,CWB1C,Children (0-17) living in 'other' types of household (%),2015,3.9,oecd
+USA,United States,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,64.1,oecd
+USA,United States,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,9.2,oecd
+USA,United States,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,34421.0,oecd
+USA,United States,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.0,oecd
+USA,United States,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,29.1,oecd
+USA,United States,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,6.6,oecd
+USA,United States,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,61.8,oecd
+USA,United States,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,66.6,oecd
+USA,United States,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,90.7,oecd
+USA,United States,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,86.9,oecd
+USA,United States,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,94.3,oecd
+USA,United States,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,67.7,oecd
+USA,United States,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,76.0,oecd
+USA,United States,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,74.2,oecd
+USA,United States,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,23.8,oecd
+USA,United States,CWB35A,Reading performance at age 15 (PISA),2015,496.9,oecd
+USA,United States,CWB35B,Mathematics performance at age 15 (PISA),2015,469.6,oecd
+USA,United States,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,35.9,oecd
+USA,United States,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,11.8,oecd
+USA,United States,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,0.0,oecd
+USA,United States,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,0.0,oecd
+BRA,Brazil,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,93.5,oecd
+BRA,Brazil,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,33.7,oecd
+BRA,Brazil,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,16.4,oecd
+BRA,Brazil,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,35.4,oecd
+BRA,Brazil,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,91.2,oecd
+BRA,Brazil,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,82.3,oecd
+BRA,Brazil,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,95.1,oecd
+BRA,Brazil,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,80.8,oecd
+BRA,Brazil,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,46.2,oecd
+BRA,Brazil,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,76.1,oecd
+BRA,Brazil,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,20.8,oecd
+BRA,Brazil,CWB35A,Reading performance at age 15 (PISA),2015,407.3,oecd
+BRA,Brazil,CWB35B,Mathematics performance at age 15 (PISA),2015,377.1,oecd
+BRA,Brazil,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,64.4,oecd
+BRA,Brazil,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,44.6,oecd
+BRA,Brazil,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,11.8,oecd
+BGR,Bulgaria,CWB1A,Children (0-17) living with two parents (%),2015,81.4,non_oecd
+BGR,Bulgaria,CWB1B,Children (0-17) living with a single parent (%),2015,16.5,non_oecd
+BGR,Bulgaria,CWB1C,Children (0-17) living in 'other' types of household (%),2015,2.1,non_oecd
+BGR,Bulgaria,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,46.2,non_oecd
+BGR,Bulgaria,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,17.1,non_oecd
+BGR,Bulgaria,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,95.2,non_oecd
+BGR,Bulgaria,CWB9,Children (0-17) in overcrowded households (%),2015,61.8,non_oecd
+BGR,Bulgaria,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,29.4,non_oecd
+BGR,Bulgaria,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,7.4,non_oecd
+BGR,Bulgaria,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,49.5,non_oecd
+BGR,Bulgaria,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,81.4,non_oecd
+BGR,Bulgaria,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,88.9,non_oecd
+BGR,Bulgaria,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,83.1,non_oecd
+BGR,Bulgaria,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,78.5,non_oecd
+BGR,Bulgaria,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,55.0,non_oecd
+BGR,Bulgaria,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,39.4,non_oecd
+BGR,Bulgaria,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,68.0,non_oecd
+BGR,Bulgaria,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,29.7,non_oecd
+BGR,Bulgaria,CWB35A,Reading performance at age 15 (PISA),2015,431.7,non_oecd
+BGR,Bulgaria,CWB35B,Mathematics performance at age 15 (PISA),2015,441.2,non_oecd
+BGR,Bulgaria,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,70.9,non_oecd
+BGR,Bulgaria,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,42.8,non_oecd
+BGR,Bulgaria,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,13.9,non_oecd
+CHL,Chile,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,11815.0,oecd
+CHL,Chile,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,90.0,oecd
+CHL,Chile,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,48.7,oecd
+CHL,Chile,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,42.9,oecd
+CHL,Chile,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,8.0,oecd
+CHL,Chile,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,41.2,oecd
+CHL,Chile,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,78.0,oecd
+CHL,Chile,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,88.6,oecd
+CHL,Chile,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,70.9,oecd
+CHL,Chile,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,92.2,oecd
+CHL,Chile,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,56.0,oecd
+CHL,Chile,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,66.6,oecd
+CHL,Chile,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,77.3,oecd
+CHL,Chile,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,20.1,oecd
+CHL,Chile,CWB35A,Reading performance at age 15 (PISA),2015,458.6,oecd
+CHL,Chile,CWB35B,Mathematics performance at age 15 (PISA),2015,422.7,oecd
+CHL,Chile,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,71.1,oecd
+CHL,Chile,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,38.1,oecd
+CHL,Chile,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,12.0,oecd
+CHL,Chile,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,30.0,oecd
+CHL,Chile,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,1.0,oecd
+COL,Colombia,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,89.4,non_oecd
+COL,Colombia,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,17.6,non_oecd
+COL,Colombia,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,12.6,non_oecd
+COL,Colombia,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,39.5,non_oecd
+COL,Colombia,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,90.3,non_oecd
+COL,Colombia,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,90.7,non_oecd
+COL,Colombia,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,96.6,non_oecd
+COL,Colombia,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,78.8,non_oecd
+COL,Colombia,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,76.3,non_oecd
+COL,Colombia,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,74.3,non_oecd
+COL,Colombia,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,28.9,non_oecd
+COL,Colombia,CWB35A,Reading performance at age 15 (PISA),2015,424.9,non_oecd
+COL,Colombia,CWB35B,Mathematics performance at age 15 (PISA),2015,389.6,non_oecd
+COL,Colombia,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,51.5,non_oecd
+COL,Colombia,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,50.8,non_oecd
+COL,Colombia,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,10.1,non_oecd
+CRI,Costa Rica,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,91.3,non_oecd
+CRI,Costa Rica,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,22.7,non_oecd
+CRI,Costa Rica,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,10.1,non_oecd
+CRI,Costa Rica,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,37.2,non_oecd
+CRI,Costa Rica,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,93.4,non_oecd
+CRI,Costa Rica,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,82.5,non_oecd
+CRI,Costa Rica,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,97.7,non_oecd
+CRI,Costa Rica,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,81.2,non_oecd
+CRI,Costa Rica,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,54.4,non_oecd
+CRI,Costa Rica,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,74.7,non_oecd
+CRI,Costa Rica,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,26.8,non_oecd
+CRI,Costa Rica,CWB35A,Reading performance at age 15 (PISA),2015,427.5,non_oecd
+CRI,Costa Rica,CWB35B,Mathematics performance at age 15 (PISA),2015,400.3,non_oecd
+CRI,Costa Rica,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,63.7,non_oecd
+CRI,Costa Rica,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,58.4,non_oecd
+CRI,Costa Rica,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,7.1,non_oecd
+HRV,Croatia,CWB1A,Children (0-17) living with two parents (%),2015,89.5,non_oecd
+HRV,Croatia,CWB1B,Children (0-17) living with a single parent (%),2015,9.8,non_oecd
+HRV,Croatia,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.7,non_oecd
+HRV,Croatia,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,47.6,non_oecd
+HRV,Croatia,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,8.0,non_oecd
+HRV,Croatia,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.6,non_oecd
+HRV,Croatia,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,65.2,non_oecd
+HRV,Croatia,CWB9,Children (0-17) in overcrowded households (%),2015,54.5,non_oecd
+HRV,Croatia,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,28.5,non_oecd
+HRV,Croatia,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,6.9,non_oecd
+HRV,Croatia,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,47.9,non_oecd
+HRV,Croatia,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,59.8,non_oecd
+HRV,Croatia,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,93.1,non_oecd
+HRV,Croatia,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,85.9,non_oecd
+HRV,Croatia,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,68.4,non_oecd
+HRV,Croatia,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,47.0,non_oecd
+HRV,Croatia,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,36.1,non_oecd
+HRV,Croatia,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,81.2,non_oecd
+HRV,Croatia,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,14.0,non_oecd
+HRV,Croatia,CWB35A,Reading performance at age 15 (PISA),2015,486.9,non_oecd
+HRV,Croatia,CWB35B,Mathematics performance at age 15 (PISA),2015,464.0,non_oecd
+HRV,Croatia,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,56.3,non_oecd
+HRV,Croatia,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,47.8,non_oecd
+HRV,Croatia,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,7.3,non_oecd
+CYP,Cyprus,CWB1A,Children (0-17) living with two parents (%),2015,85.0,non_oecd
+CYP,Cyprus,CWB1B,Children (0-17) living with a single parent (%),2015,14.0,non_oecd
+CYP,Cyprus,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.9,non_oecd
+CYP,Cyprus,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,59.5,non_oecd
+CYP,Cyprus,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,9.3,non_oecd
+CYP,Cyprus,CWB9,Children (0-17) in overcrowded households (%),2015,3.3,non_oecd
+CYP,Cyprus,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,80.8,non_oecd
+EST,Estonia,CWB1A,Children (0-17) living with two parents (%),2015,83.9,oecd
+EST,Estonia,CWB1B,Children (0-17) living with a single parent (%),2015,15.2,oecd
+EST,Estonia,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.9,oecd
+EST,Estonia,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,58.2,oecd
+EST,Estonia,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,7.3,oecd
+EST,Estonia,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,19444.4,oecd
+EST,Estonia,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,95.4,oecd
+EST,Estonia,CWB9,Children (0-17) in overcrowded households (%),2015,22.8,oecd
+EST,Estonia,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,21.6,oecd
+EST,Estonia,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,5.4,oecd
+EST,Estonia,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,55.7,oecd
+EST,Estonia,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,89.9,oecd
+EST,Estonia,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,86.8,oecd
+EST,Estonia,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,81.5,oecd
+EST,Estonia,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,92.0,oecd
+EST,Estonia,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,52.8,oecd
+EST,Estonia,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,42.8,oecd
+EST,Estonia,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,78.0,oecd
+EST,Estonia,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,12.8,oecd
+EST,Estonia,CWB35A,Reading performance at age 15 (PISA),2015,519.1,oecd
+EST,Estonia,CWB35B,Mathematics performance at age 15 (PISA),2015,519.5,oecd
+EST,Estonia,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,67.8,oecd
+EST,Estonia,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,36.9,oecd
+EST,Estonia,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,9.3,oecd
+EST,Estonia,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,166.0,oecd
+EST,Estonia,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,2.0,oecd
+IDN,Indonesia,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,92.3,non_oecd
+IDN,Indonesia,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,3.7,non_oecd
+IDN,Indonesia,CWB35A,Reading performance at age 15 (PISA),2015,397.3,non_oecd
+IDN,Indonesia,CWB35B,Mathematics performance at age 15 (PISA),2015,386.1,non_oecd
+ISR,Israel,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,41.5,oecd
+ISR,Israel,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,7.6,oecd
+ISR,Israel,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,18891.4,oecd
+ISR,Israel,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,95.5,oecd
+ISR,Israel,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,31.2,oecd
+ISR,Israel,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,11.8,oecd
+ISR,Israel,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,49.9,oecd
+ISR,Israel,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,99.2,oecd
+ISR,Israel,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,76.9,oecd
+ISR,Israel,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,96.0,oecd
+ISR,Israel,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,44.5,oecd
+ISR,Israel,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,57.0,oecd
+ISR,Israel,CWB35A,Reading performance at age 15 (PISA),2015,479.0,oecd
+ISR,Israel,CWB35B,Mathematics performance at age 15 (PISA),2015,469.7,oecd
+ISR,Israel,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,51.3,oecd
+ISR,Israel,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,14.0,oecd
+ISR,Israel,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,0.0,oecd
+LVA,Latvia,CWB1A,Children (0-17) living with two parents (%),2015,70.5,oecd
+LVA,Latvia,CWB1B,Children (0-17) living with a single parent (%),2015,27.9,oecd
+LVA,Latvia,CWB1C,Children (0-17) living in 'other' types of household (%),2015,1.7,oecd
+LVA,Latvia,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,57.5,oecd
+LVA,Latvia,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,6.9,oecd
+LVA,Latvia,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,15306.1,oecd
+LVA,Latvia,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.6,oecd
+LVA,Latvia,CWB9,Children (0-17) in overcrowded households (%),2015,57.1,oecd
+LVA,Latvia,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,21.7,oecd
+LVA,Latvia,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,3.9,oecd
+LVA,Latvia,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,57.6,oecd
+LVA,Latvia,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,91.6,oecd
+LVA,Latvia,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,86.9,oecd
+LVA,Latvia,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,84.6,oecd
+LVA,Latvia,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,88.5,oecd
+LVA,Latvia,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,43.2,oecd
+LVA,Latvia,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,24.7,oecd
+LVA,Latvia,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,78.6,oecd
+LVA,Latvia,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,15.8,oecd
+LVA,Latvia,CWB35A,Reading performance at age 15 (PISA),2015,487.8,oecd
+LVA,Latvia,CWB35B,Mathematics performance at age 15 (PISA),2015,482.3,oecd
+LVA,Latvia,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,61.5,oecd
+LVA,Latvia,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,31.5,oecd
+LVA,Latvia,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,8.9,oecd
+LVA,Latvia,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,94.0,oecd
+LVA,Latvia,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,1.4,oecd
+LTU,Lithuania,CWB1A,Children (0-17) living with two parents (%),2015,75.3,oecd
+LTU,Lithuania,CWB1B,Children (0-17) living with a single parent (%),2015,22.2,oecd
+LTU,Lithuania,CWB1C,Children (0-17) living in 'other' types of household (%),2015,2.5,oecd
+LTU,Lithuania,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,63.9,oecd
+LTU,Lithuania,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,11.0,oecd
+LTU,Lithuania,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,14882.1,oecd
+LTU,Lithuania,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,96.5,oecd
+LTU,Lithuania,CWB9,Children (0-17) in overcrowded households (%),2015,39.5,oecd
+LTU,Lithuania,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,23.1,oecd
+LTU,Lithuania,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,4.7,oecd
+LTU,Lithuania,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,55.7,oecd
+LTU,Lithuania,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,83.8,oecd
+LTU,Lithuania,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,88.6,oecd
+LTU,Lithuania,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,87.1,oecd
+LTU,Lithuania,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,83.1,oecd
+LTU,Lithuania,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,55.6,oecd
+LTU,Lithuania,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,53.6,oecd
+LTU,Lithuania,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,54.5,oecd
+LTU,Lithuania,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,30.7,oecd
+LTU,Lithuania,CWB35A,Reading performance at age 15 (PISA),2015,472.4,oecd
+LTU,Lithuania,CWB35B,Mathematics performance at age 15 (PISA),2015,478.4,oecd
+LTU,Lithuania,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,57.7,oecd
+LTU,Lithuania,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,47.6,oecd
+LTU,Lithuania,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,8.1,oecd
+LTU,Lithuania,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,62.0,oecd
+LTU,Lithuania,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,4.0,oecd
+MLT,Malta,CWB1A,Children (0-17) living with two parents (%),2015,79.9,non_oecd
+MLT,Malta,CWB1B,Children (0-17) living with a single parent (%),2015,19.7,non_oecd
+MLT,Malta,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.4,non_oecd
+MLT,Malta,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,49.9,non_oecd
+MLT,Malta,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,8.5,non_oecd
+MLT,Malta,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,74.2,non_oecd
+MLT,Malta,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,97.2,non_oecd
+MLT,Malta,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,69.8,non_oecd
+MLT,Malta,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,20.4,non_oecd
+MLT,Malta,CWB35A,Reading performance at age 15 (PISA),2015,446.7,non_oecd
+MLT,Malta,CWB35B,Mathematics performance at age 15 (PISA),2015,478.6,non_oecd
+PER,Peru,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,88.5,non_oecd
+PER,Peru,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,16.8,non_oecd
+PER,Peru,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,4.4,non_oecd
+PER,Peru,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,41.9,non_oecd
+PER,Peru,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,89.3,non_oecd
+PER,Peru,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,89.4,non_oecd
+PER,Peru,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,96.5,non_oecd
+PER,Peru,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,71.5,non_oecd
+PER,Peru,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,64.3,non_oecd
+PER,Peru,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,71.4,non_oecd
+PER,Peru,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,20.6,non_oecd
+PER,Peru,CWB35A,Reading performance at age 15 (PISA),2015,397.5,non_oecd
+PER,Peru,CWB35B,Mathematics performance at age 15 (PISA),2015,386.6,non_oecd
+PER,Peru,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,34.4,non_oecd
+PER,Peru,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,42.8,non_oecd
+PER,Peru,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,12.9,non_oecd
+ROU,Romania,CWB1A,Children (0-17) living with two parents (%),2015,85.6,non_oecd
+ROU,Romania,CWB1B,Children (0-17) living with a single parent (%),2015,10.2,non_oecd
+ROU,Romania,CWB1C,Children (0-17) living in 'other' types of household (%),2015,4.2,non_oecd
+ROU,Romania,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,46.2,non_oecd
+ROU,Romania,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,9.7,non_oecd
+ROU,Romania,CWB9,Children (0-17) in overcrowded households (%),2015,70.3,non_oecd
+ROU,Romania,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,83.8,non_oecd
+ROU,Romania,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,52.5,non_oecd
+ROU,Romania,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,12.2,non_oecd
+ROU,Romania,CWB35A,Reading performance at age 15 (PISA),2015,433.6,non_oecd
+ROU,Romania,CWB35B,Mathematics performance at age 15 (PISA),2015,444.0,non_oecd
+RUS,Russia,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,97.4,non_oecd
+RUS,Russia,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,15.6,non_oecd
+RUS,Russia,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,3.6,non_oecd
+RUS,Russia,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,59.9,non_oecd
+RUS,Russia,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,90.1,non_oecd
+RUS,Russia,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,91.8,non_oecd
+RUS,Russia,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,80.9,non_oecd
+RUS,Russia,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,51.1,non_oecd
+RUS,Russia,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,16.9,non_oecd
+RUS,Russia,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,74.6,non_oecd
+RUS,Russia,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,19.6,non_oecd
+RUS,Russia,CWB35A,Reading performance at age 15 (PISA),2015,494.6,non_oecd
+RUS,Russia,CWB35B,Mathematics performance at age 15 (PISA),2015,494.1,non_oecd
+RUS,Russia,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,63.5,non_oecd
+RUS,Russia,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,46.8,non_oecd
+RUS,Russia,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,10.3,non_oecd
+SVN,Slovenia,CWB1A,Children (0-17) living with two parents (%),2015,85.2,oecd
+SVN,Slovenia,CWB1B,Children (0-17) living with a single parent (%),2015,14.3,oecd
+SVN,Slovenia,CWB1C,Children (0-17) living in 'other' types of household (%),2015,0.5,oecd
+SVN,Slovenia,CWB2A,Children (0-14) in households where all adults are in employment (working) (%),2015,71.9,oecd
+SVN,Slovenia,CWB2C,Children (0-14) in households with all adults not in employment (jobless) (%),2015,4.0,oecd
+SVN,Slovenia,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,21952.7,oecd
+SVN,Slovenia,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,89.6,oecd
+SVN,Slovenia,CWB9,Children (0-17) in overcrowded households (%),2015,18.0,oecd
+SVN,Slovenia,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,55.3,oecd
+SVN,Slovenia,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,3.6,oecd
+SVN,Slovenia,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,58.5,oecd
+SVN,Slovenia,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,88.0,oecd
+SVN,Slovenia,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,93.7,oecd
+SVN,Slovenia,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,59.8,oecd
+SVN,Slovenia,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,69.5,oecd
+SVN,Slovenia,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,61.9,oecd
+SVN,Slovenia,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,25.8,oecd
+SVN,Slovenia,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,74.5,oecd
+SVN,Slovenia,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,17.6,oecd
+SVN,Slovenia,CWB35A,Reading performance at age 15 (PISA),2015,505.2,oecd
+SVN,Slovenia,CWB35B,Mathematics performance at age 15 (PISA),2015,509.9,oecd
+SVN,Slovenia,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,47.9,oecd
+SVN,Slovenia,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,32.5,oecd
+SVN,Slovenia,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,13.5,oecd
+SVN,Slovenia,CWB50A,Length of paid maternity and parental leave available to mothers in weeks,2015,52.1,oecd
+SVN,Slovenia,CWB50B,Length of paid paternity and parental leave reserved for fathers in weeks,2015,2.1,oecd
+ZAF,South Africa,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,7504.4,non_oecd
+BEL-VLG,Flanders,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,71.2,oecd
+OAVG,OECD - Average,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,24374.4,oecd
+OAVG,OECD - Average,CWB8A,Adolescents (15-year-olds) who report talking to their parents before or after school (%),2015,95.1,oecd
+OAVG,OECD - Average,CWB8B,"Adolescents (15-year-olds) whose parents report spending time ""just talking to my child"" every day or almost every day (%)",2015,72.9,oecd
+OAVG,OECD - Average,CWB16,Adolescents (15-year-olds) skipping either breakfast or dinner (%),2015,25.4,oecd
+OAVG,OECD - Average,CWB17A,Adolescents (15-year-olds) who report doing no physical activity outside of school (%),2015,6.6,oecd
+OAVG,OECD - Average,CWB17B,Adolescents (15-year-olds) who report regularly engaging in vigorous physical activity outside of school (%),2015,52.3,oecd
+OAVG,OECD - Average,CWB27,Adolescents (15-year-olds) with parents interested in and supportive of their education (%),2015,90.5,oecd
+OAVG,OECD - Average,CWB28,Adolescents (15-year-olds) who study before or after school (%),2015,80.4,oecd
+OAVG,OECD - Average,CWB29,Adolescents (15-year-olds) who want top grades at school (%),2015,83.4,oecd
+OAVG,OECD - Average,CWB30,Adolescents (15-year-olds) who feel anxious about school tests even when well-prepared (%),2015,55.5,oecd
+OAVG,OECD - Average,CWB31,Adolescents (15-year-olds) who expect to complete a university degree (%),2015,44.2,oecd
+OAVG,OECD - Average,CWB32,Adolescents (15-year-olds) who feel like they belong in school (%),2015,73.0,oecd
+OAVG,OECD - Average,CWB33,Adolescents (15-year-olds) who feel like outsiders at school (%),2015,17.2,oecd
+OAVG,OECD - Average,CWB35A,Reading performance at age 15 (PISA),2015,492.5,oecd
+OAVG,OECD - Average,CWB35B,Mathematics performance at age 15 (PISA),2015,490.2,oecd
+OAVG,OECD - Average,CWB40,Adolescents (15-year-olds) who are high or extreme internet users (%),2015,59.4,oecd
+OAVG,OECD - Average,CWB44A,Adolescents (15-year-olds) reporting high life satisfaction (%),2015,34.1,oecd
+OAVG,OECD - Average,CWB44B,Adolescents (15-year-olds) reporting low life satisfaction (%),2015,11.8,oecd
+BRA,Brazil,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,79.0,oecd
+COL,Colombia,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,78.5,non_oecd
+CRI,Costa Rica,CWB3,"Average disposable household income, 0-17 year-olds, 2015 USD PPP",2015,10867.7,non_oecd
+CRI,Costa Rica,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,53.2,non_oecd
+RUS,Russia,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,83.3,non_oecd
+ZAF,South Africa,CWB22,Children (3-5 year-olds) enrolled in pre-primary education or primary school (%),2015,17.2,non_oecd

@@ -1,3 +1,12 @@
 ## My final project for COMM318 _Stories from Data_ (Fall2020)
 
-* You will edit this file to act as the main index page for your project 
+### My main research question: What are the effects of parents spending more time with their children during the global pandemic?
+
+This project starts with a general focus on **1) the effects of parental involvement on a child's learning**, then narrows down to focus on **2) how parents have gotten involved with their child's education during the pandemic** and **3) what involvement through homeschooling looks like**. Finally, I circle back to finding **4) the effect of homeschooling on a child's academic performance**.
+     
+1. Because COVID-19 shut schools down, parents will now play more of a role in their children's education and daily lives. Therefore, it is important to examine what happens to achievement when parents are more involved with their children. First, I examine trends for parental involvement in multiple countries. It generally shows that parental involvement is associated with better national standardized test scores. 
+2. Next, I explored how parents are helping out with their child's education during lockdown to preserve/increase their academic success. Are they searching for educational resources? Are they looking for new schooling options altogether? I found that when the pandemic first closed schools in March, people began to search more for online tutoring. Searches for 'how to homeschool' seem to take a large jump just before the Fall 2020 semester again, so it seems like parents were willing to teach their children themselves to avoid sending them back to school under the threat of the virus.
+3. How, then, have parents homeschooled their children under normal circumstances? Do they keep to a rigid schedule? Where do they get their lesson plans? I found that, on average, parents homeschool 5 days a week, but stay "in class" for less time than a public school would. Homeschooling parents typically follow a formal curriculum, borrowing lesson plans from low-cost sources like the internet and libraries.
+4. Lastly, does this personalized instruction and parental effort affect performance on standardized testing? Do children who are homeschooled perform better? According to ACT data, they perform better than public school students on average, but slightly worse than private school students.
+
+My project is meaningful because it looks at possible long-term implications of parents investing more time in their child's education, both during the pandemic and going forward. Readers will find that the quarantine period could have a positive effect on the child's life if they have the time and resources to devote to extra academic help. 
